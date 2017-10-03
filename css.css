@@ -2,10 +2,10 @@ body{
 	
 font-family: "Helvetica", "Arial", fantasy;
 	
-color: #AAFF00;
-	background-color: #ADD3F9;
+color: #61E9FE;
+	background-color: #C947F9;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #ffffff;
 	text-align: center;
 
 }
@@ -14,11 +14,11 @@ text-shadow: 1px 1px #ff0000;
 
 h1 {
 	
-font-size: 1.3em;
+font-size: 2.0em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1.3px 1.3px #000000;
 
 }
 
